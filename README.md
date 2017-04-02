@@ -1,4 +1,4 @@
-# React Transform Boilerplate
+# Redux-demo
 
 ## Installation
 
